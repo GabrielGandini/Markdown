@@ -4,9 +4,9 @@
 
 **pode ser interessante**
 
-(clique aqui)[https://www.youtube.com/watch?v=Pz04moVKyHY&list=RDPz04moVKyHY&start_radio=1]para ir a um video normal.
+[clique aqui](https://www.youtube.com/watch?v=Pz04moVKyHY&list=RDPz04moVKyHY&start_radio=1) para ir a um video normal.
 
-[!WARNING]
+>[!WARNING]
 TRALALERO TRALALA.
 
 1. eu
